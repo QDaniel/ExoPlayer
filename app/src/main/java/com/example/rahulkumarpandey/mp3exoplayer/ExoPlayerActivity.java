@@ -105,7 +105,7 @@ public class ExoPlayerActivity extends AppCompatActivity implements ExoPlayer.Ev
             CookieHandler.setDefault(DEFAULT_COOKIE_MANAGER);
         }
 
-        setContentView(R.layout.activity_exoPlayer);
+        setContentView(R.layout.activity_exo_player);
         initView();
     }
 
